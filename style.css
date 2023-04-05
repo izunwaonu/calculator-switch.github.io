@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(bg.jpg);
+    
+    background-size: cover;
+    
+    background-attachment: fixed;
+}
+#result{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: white;
+    height: 60px;
+    align-items: center;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+a{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+    text-decoration: none;
+
+}
